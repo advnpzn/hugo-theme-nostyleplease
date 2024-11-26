@@ -5,4 +5,4 @@ draft = false
 +++
 I post some stuff here, nothing particularly groundbreaking, just some random things!
 
-[projects](projects) / [about](about) / [archive](posts)
+[about](about) / [archive](posts)
