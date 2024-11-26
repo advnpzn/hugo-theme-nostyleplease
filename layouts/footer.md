@@ -1,2 +1,1 @@
-This is footer.
-You can edit this in ../nostyleplease/layouts/footer.md
+[rss](index.xml) / [telegram](https://t.me/advnpzn) / [email](mailto:advnpzn@proton.me)

@@ -9,7 +9,7 @@
         {{- if (eq .context.Kind "term") -}}
             {{- $posts = .context.Data.Pages -}}
 	{{- else -}}
-            {{- $posts = site.RegularPages }}
+            {{- $posts = (where site.RegularPages "Type" "posts") -}}
 	{{- end -}}
     {{- end -}}
 {{- end -}}
